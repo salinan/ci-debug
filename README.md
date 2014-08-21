@@ -9,8 +9,8 @@ A small codeigniter debugging library
 - also some database functions included to quickly get some tableinfo
 
 Functions are
-p($value,[$description]) output anything 
-q() output last query
-mem() output memory usage
+- p($value,[$description]) output anything 
+- q() output last query
+- mem() output memory usage
 
 .. see debug_helper for more info on other functions
